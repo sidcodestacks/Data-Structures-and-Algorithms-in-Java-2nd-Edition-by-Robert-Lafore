@@ -116,6 +116,7 @@ class highArrayApp {
 		ar.insert(00); 
 		ar.insert(66); 
 		ar.insert(33);
+		ar.insert(23);
 
 		ar.display();
 		
